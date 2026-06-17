@@ -270,6 +270,19 @@ It contains:
 
 ---
 
+## Memory Architecture of a computer:
+1. If we want to execute any program, it must be provided to the processor.
+2. This is because only the processor has the ability to execute instructions and produce output.
+3. For permanent storage of data, we use the hard disk.
+4. Data stored on the hard disk is kept in the form of files.
+5. The process of moving data from the hard disk to RAM is called loading.
+6. The process of moving data from RAM to the hard disk is called saving.
+7. For executing a Java program, it is important that the program and required data be loaded into RAM.
+8. In RAM, all the software required to execute a program is also loaded.
+9. The software environment required to run Java programs is known as the JRE (Java Runtime Environment).
+
+---
+
 ## JVM (Java Virtual Machine)
 
 JVM is responsible for converting bytecode into executable machine code.
