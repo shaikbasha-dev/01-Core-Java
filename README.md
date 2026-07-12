@@ -16,6 +16,10 @@ The repository is organized topic-wise and includes:
 
 The content is designed for beginners, students, and job seekers preparing for Core Java interviews.
 
+## Repository Overview
+
+![Core Java Repository Overview](Core-Java-Repository-Overview.png)
+
 ## Repository Structure
 
 ### 01-Java-Basics
@@ -251,7 +255,7 @@ This repository is useful for:
 
 ## Author
 
-Shaik Mahaboob Basha
+**Shaik Mahaboob Basha**
 
 B.Tech - Electronics and Communication Engineering
 
@@ -272,6 +276,12 @@ The following topics will be added in future:
 * Lambda Expressions
 * Mini Projects
 
+## Support
+
+If this repository helps you in your learning journey, interview preparation, or future reference, please consider giving it a **Star ⭐**. Your support is greatly appreciated and motivates me to continue creating high-quality educational repositories.
+
 ## Conclusion
 
 This repository is created as a complete Core Java learning and interview preparation resource. It contains concepts, programs, explanations, and interview questions arranged in a structured manner for easy learning and revision.
+
+Happy Learning and Keep Coding!
