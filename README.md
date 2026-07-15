@@ -259,7 +259,7 @@ This repository is useful for:
 
 B.Tech - Electronics and Communication Engineering
 
-Aspiring Java Full Stack Developer
+Trained and Interned Java Full Stack Developer
 
 ## Future Topics
 
