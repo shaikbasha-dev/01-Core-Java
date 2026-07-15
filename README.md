@@ -1,5 +1,7 @@
 # Core Java
 
+---
+
 ## Overview
 
 This repository contains my Core Java learning notes and practice programs prepared during my Java learning journey.
