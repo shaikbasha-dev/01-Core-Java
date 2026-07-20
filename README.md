@@ -2019,7 +2019,7 @@ The goal of these repositories is to make Java learning more accessible, practic
 Stay connected for more educational repositories, technical content, and learning resources.
 
 - GitHub: https://github.com/shaikbasha-dev
-- LinkedIn: https://www.linkedin.com/in/shaik-mahaboob-basha/
+- LinkedIn: https://www.linkedin.com/in/shaikbasha-dev/
 - Email: smbashadev@gmail.com
 
 Feel free to connect, follow the repositories, and share valuable feedback to help improve future educational content.
