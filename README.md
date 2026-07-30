@@ -7,14 +7,14 @@
 #### Learn • Practice • Build • Revise • Prepare for Interviews
 
 <p>
-A comprehensive <strong>Core Java</strong> repository designed for beginners, students, software developers, and job seekers to build a strong programming foundation through structured theory, practical programs, standalone source code, detailed explanations, interview preparation, and hands-on practice.
+A comprehensive <strong>Core Java</strong> repository designed for beginners, students, software developers, and job seekers to build a strong programming foundation through structured theory, practical programs, <strong>112 standalone Java source files</strong>, detailed explanations, interview preparation, and hands-on practice.
 </p>
 
 ---
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk)
 ![Documentation](https://img.shields.io/badge/Documentation-Complete-blue?style=for-the-badge)
-![Source Code](https://img.shields.io/badge/Source%20Code-Included-success?style=for-the-badge)
+![Java Programs](https://img.shields.io/badge/Java%20Programs-112-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Actively%20Maintained-success?style=for-the-badge)
 ![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen?style=for-the-badge)
 ![Interview Preparation](https://img.shields.io/badge/Interview-Preparation-red?style=for-the-badge)
@@ -30,7 +30,7 @@ A comprehensive <strong>Core Java</strong> repository designed for beginners, st
 
 This repository has been created as a **comprehensive Core Java learning resource** to help learners master Java programming from the fundamentals to interview-oriented concepts through a structured and practical learning approach.
 
-Unlike repositories that contain only source code, this repository combines **theory**, **standalone Java programs**, **code explanations**, **pseudocode**, **outputs**, **interview questions**, and **revision material** into a single learning resource.
+Unlike repositories that contain only source code, this repository combines **theory**, **112 standalone Java programs**, **code explanations**, **pseudocode**, **outputs**, **interview questions**, **revision material**, and **visual learning resources** into a single educational repository.
 
 Every topic is carefully organized to guide learners through a logical progression—from understanding Java fundamentals to writing practical programs and preparing confidently for technical interviews.
 
@@ -47,8 +47,8 @@ This repository aims to help learners:
 - Build a strong foundation in Core Java programming.
 - Understand Java concepts through simple and structured explanations.
 - Learn by combining theory with hands-on programming.
+- Practice using **112 standalone Java programs**.
 - Develop logical thinking and problem-solving skills.
-- Practice Java programs using real-world examples.
 - Improve code readability and coding standards.
 - Strengthen debugging and analytical skills.
 - Prepare effectively for technical interviews.
@@ -63,15 +63,16 @@ This repository aims to help learners:
 |----------|-------------|
 | 📘 Beginner Friendly | Easy-to-understand explanations designed for beginners |
 | 📖 Complete Theory | Detailed conceptual explanations for every topic |
-| 💻 Standalone Source Code | Independent Java programs for every concept |
-| 🧠 Practical Programs | Well-structured real-world Java examples |
-| 🔍 Code Explanation | Detailed explanations for important programs |
+| 💻 112 Java Programs | Standalone Java programs covering Core Java concepts |
+| 🧠 Practical Programs | Beginner-friendly and interview-oriented coding examples |
+| 🔍 Code Explanation | Detailed explanation for important programs |
 | 📝 Pseudocode | Understand program logic before implementation |
-| 📊 Program Output | Output provided for better understanding |
+| 📊 Program Output | Expected outputs for practical understanding |
 | 🎯 Interview Questions | Topic-wise interview questions and answers |
 | 📚 Revision Friendly | Quick revision material for placements and interviews |
-| 🚀 Hands-on Practice | Learn through coding and experimentation |
-| 🔄 Actively Maintained | Repository is continuously updated with new content |
+| 🖼 Visual Learning | Repository overview infographic and learning resources |
+| 🚀 Hands-on Practice | Learn by coding and experimentation |
+| 🔄 Actively Maintained | Repository is continuously improved with new content |
 
 ---
 
@@ -81,16 +82,18 @@ This repository aims to help learners:
 |-----------|--------|
 | Repository Type | Educational |
 | Difficulty Level | Beginner → Intermediate |
+| Learning Modules | **8** |
+| Standalone Java Programs | **112** |
 | Learning Approach | Theory + Practical + Hands-on Coding |
-| Standalone Source Code | ✔ Included |
-| Practical Programs | ✔ Included |
 | Theory Notes | ✔ Included |
+| Practical Programs | ✔ Included |
+| Standalone Source Code | ✔ Included |
 | Code Explanation | ✔ Included |
 | Pseudocode | ✔ Included |
 | Program Output | ✔ Included |
 | Interview Questions | ✔ Included |
 | Revision Notes | ✔ Included |
-| Real-World Examples | ✔ Included |
+| Visual Learning Resources | ✔ Included |
 | Repository Status | 🚀 Active Development |
 
 ---
@@ -120,16 +123,16 @@ This repository has been designed for anyone who wants to learn, practice, revis
 
 It is especially beneficial for:
 
-- Students learning Java programming.
-- Beginners starting their programming journey.
-- College students preparing for placements.
-- Java Full Stack Developer aspirants.
-- Software engineering students.
-- Technical interview candidates.
-- Developers revising Core Java fundamentals.
-- Educators and trainers preparing learning materials.
-- Self-learners seeking a structured Java roadmap.
-- Anyone interested in mastering Java from scratch.
+- Students learning Java programming
+- Beginners starting their programming journey
+- College students preparing for placements
+- Java Full Stack Developer aspirants
+- Software engineering students
+- Technical interview candidates
+- Developers revising Core Java fundamentals
+- Educators and trainers preparing learning materials
+- Self-learners seeking a structured Java roadmap
+- Anyone interested in mastering Java from scratch
 
 ---
 
@@ -137,7 +140,7 @@ It is especially beneficial for:
 
 By completing this repository, you will gain a strong understanding of Core Java concepts and practical programming skills.
 
-### Java Fundamentals
+### ☕ Java Fundamentals
 
 - Introduction to Java
 - History and Evolution of Java
@@ -151,7 +154,7 @@ By completing this repository, you will gain a strong understanding of Core Java
 
 ---
 
-### Programming Fundamentals
+### 💻 Programming Fundamentals
 
 - Writing Java Programs
 - Java Syntax
@@ -163,7 +166,7 @@ By completing this repository, you will gain a strong understanding of Core Java
 
 ---
 
-### Data Types & Type Casting
+### 📊 Data Types & Type Casting
 
 - Primitive Data Types
 - Non-Primitive Data Types
@@ -174,7 +177,7 @@ By completing this repository, you will gain a strong understanding of Core Java
 
 ---
 
-### Methods
+### ⚙ Methods
 
 - Method Declaration
 - Method Definition
@@ -186,7 +189,7 @@ By completing this repository, you will gain a strong understanding of Core Java
 
 ---
 
-### Control Statements
+### 🔀 Control Statements
 
 - if
 - if-else
@@ -201,7 +204,7 @@ By completing this repository, you will gain a strong understanding of Core Java
 
 ---
 
-### Arrays
+### 📦 Arrays
 
 - One-Dimensional Arrays
 - Two-Dimensional Arrays
@@ -212,7 +215,7 @@ By completing this repository, you will gain a strong understanding of Core Java
 
 ---
 
-### Strings
+### 🔤 Strings
 
 - String Creation
 - String Pool
@@ -225,12 +228,26 @@ By completing this repository, you will gain a strong understanding of Core Java
 
 ---
 
-### Practical Skills
+### 💻 Standalone Java Programs
+
+- 112 Beginner-Friendly Java Programs
+- Number Programs
+- Pattern Programs
+- Array Programs
+- Matrix Programs
+- String Programs
+- Method Programs
+- Interview-Oriented Examples
+
+---
+
+### 🎯 Practical Skills
 
 After completing this repository, you will be able to:
 
 - Write clean and readable Java programs.
 - Compile and execute standalone Java applications.
+- Practice using **112 Java programs**.
 - Understand professional Java project organization.
 - Apply Java programming concepts to practical problems.
 - Improve logical thinking and analytical skills.
@@ -238,7 +255,7 @@ After completing this repository, you will be able to:
 - Debug and troubleshoot Java programs.
 - Follow industry-standard coding practices.
 - Prepare confidently for technical interviews.
-- Build a strong foundation for Advanced Java, Spring Boot, Hibernate, JDBC, and Full Stack Development.
+- Build a strong foundation for Advanced Java, Spring Boot, Hibernate, JDBC, and Java Full Stack Development.
 
 ---
 
@@ -275,7 +292,6 @@ After completing this repository, you will be able to:
 - [🌐 Connect With Me](#-connect-with-me)
 - [🙏 Acknowledgements](#-acknowledgements)
 - [🚀 Future Vision](#-future-vision)
-- [📌 GitHub Repository Optimization](#-github-repository-optimization)
 
 ---
 
@@ -293,7 +309,7 @@ After completing this repository, you will be able to:
 >
 > ⬇
 >
-> **Explore the Source Code**
+> **Explore the 112 Java Programs**
 >
 > ⬇
 >
@@ -321,7 +337,9 @@ After completing this repository, you will be able to:
 
 # 🌳 Repository Structure
 
-The repository follows a well-organized and modular structure to provide a smooth learning experience. Each directory focuses on a specific Core Java topic, allowing learners to progress systematically from the fundamentals to practical programming and interview preparation.
+The repository follows a well-organized and modular structure to provide a smooth learning experience. Each directory focuses on a specific Core Java topic, allowing learners to progress systematically from Java fundamentals to practical programming and interview preparation.
+
+The repository now includes a dedicated **08-Java-Programs** module containing **112 standalone Java programs** organized for learning, coding practice, revision, and interview preparation.
 
 ```text
 01-Core-Java
@@ -331,102 +349,83 @@ The repository follows a well-organized and modular structure to provide a smoot
 │   ├── History of Java
 │   ├── Features of Java
 │   ├── Java Editions
+│   ├── Java Applications
 │   ├── JVM
 │   ├── JRE
 │   ├── JDK
 │   ├── Java Architecture
-│   ├── Java Compilation Process
-│   ├── Java Execution Process
-│   └── Java Memory Architecture
+│   ├── Compilation Process
+│   ├── Execution Process
+│   ├── Memory Architecture
+│   └── Interview Questions
 │
-├── 📁 02-Basic-Programs
-│   ├── Hello World
+├── 📁 02-Basic-Programming
+│   ├── Basic Programs
+│   ├── Operators
+│   ├── Scanner
 │   ├── Escape Sequences
-│   ├── Display Name and Year
-│   ├── Sum of Integers
-│   ├── Square of Integer
-│   ├── Basic Calculator
-│   ├── Even or Odd
-│   └── Greatest of Three Numbers
+│   ├── Number Programs
+│   └── Interview Questions
 │
 ├── 📁 03-Data-Types-and-Type-Casting
 │   ├── Primitive Data Types
 │   ├── Non-Primitive Data Types
 │   ├── Implicit Type Casting
-│   └── Explicit Type Casting
+│   ├── Explicit Type Casting
+│   └── Interview Questions
 │
 ├── 📁 04-Methods
-│   ├── Introduction to Methods
-│   ├── Four Types of Methods
-│   ├── Method Parameters
+│   ├── Method Basics
+│   ├── Method Types
+│   ├── Parameters
 │   ├── Return Types
-│   └── Method Overloading
+│   ├── Method Overloading
+│   └── Interview Questions
 │
 ├── 📁 05-Control-Statements
-│   ├── if
-│   ├── if-else
-│   ├── else-if Ladder
-│   ├── Nested if
-│   ├── switch
-│   ├── for Loop
-│   ├── while Loop
-│   ├── do-while Loop
-│   ├── break
-│   └── continue
+│   ├── Decision Making
+│   ├── Looping Statements
+│   ├── Jump Statements
+│   └── Interview Questions
 │
 ├── 📁 06-Arrays
 │   ├── One-Dimensional Arrays
 │   ├── Two-Dimensional Arrays
 │   ├── Three-Dimensional Arrays
 │   ├── Jagged Arrays
-│   ├── Linear Search
-│   └── Matrix Representation
+│   ├── Matrix Operations
+│   └── Interview Questions
 │
 ├── 📁 07-Strings
-│   ├── String Introduction
-│   ├── String Pool
+│   ├── String Basics
 │   ├── String Methods
 │   ├── StringBuffer
 │   ├── StringBuilder
-│   └── Interview Programs
+│   └── Interview Questions
 │
-├── 📁 Source-Code
-│   ├── 01-Hello-World.java
-│   ├── 02-Escape-Sequences.java
-│   ├── 03-Display-Name-and-Year.java
-│   ├── 04-SumOfIntegers.java
-│   ├── 05-SquareOfIntegerHardCoding.java
-│   ├── 06-SquareOfIntegerSoftCoding.java
-│   ├── 07-BasicCalculatorHardCoding.java
-│   ├── 08-BasicCalculatorSoftCoding.java
-│   ├── 09-EvenOdd.java
-│   ├── 10-GreatestOfThreeNumbers.java
-│   ├── 11-StoringAllPrimitiveDataTypes.java
-│   ├── 12-ImplicitTypeCasting.java
-│   ├── 13-ExplicitTypeCasting.java
-│   ├── 14-FourTypesOfMethods.java
-│   ├── 15-StudentGradeCalculator.java
-│   ├── 16-MenuDrivenCalculator.java
-│   ├── 17-MultiplicationTableGenerator.java
-│   ├── 18-NumberGuessCounter.java
-│   ├── 19-ATMMenuSystem.java
-│   ├── 20-StudentMarksManager.java
-│   ├── 21-StudentMarksMatrix.java
-│   ├── 22-ClassroomAttendanceTracker.java
-│   ├── 23-DepartmentEmployeeRecords.java
+├── 📁 08-Java-Programs
+│   ├── 001-Hello-World.java
+│   ├── 002-Print-Variables.java
+│   ├── 003-Primitive-Data-Types.java
+│   ├── ...
+│   ├── ...
+│   ├── 110-Factorial-Using-Method.java
+│   ├── 111-Prime-Number-Using-Method.java
+│   ├── 112-Menu-Driven-Calculator-Using-Methods.java
 │   └── README.md
 │
-├── LICENSE
-└── README.md
+├── 🖼 Core-Java-Repository-Overview.png
+├── 📄 LICENSE
+└── 📘 README.md
 ```
 
-The modular structure enables learners to easily locate topics, practice programs independently, and revise concepts efficiently. Every directory has a specific educational purpose, making the repository easy to navigate for beginners as well as experienced developers.
+The modular structure enables learners to study theoretical concepts, practice using standalone Java programs, revise important topics efficiently, and prepare confidently for technical interviews.
 
 ---
 
 # 🛣 Learning Roadmap
 
-The repository follows a carefully designed learning path where each topic builds upon the previous one. This gradual progression helps learners develop a strong understanding of Core Java before moving to advanced technologies.
+The repository follows a carefully designed learning path where every topic builds upon previously learned concepts. This gradual progression helps learners establish a strong Core Java foundation before moving to Advanced Java and enterprise application development.
 
 ```text
 Java Introduction
@@ -435,7 +434,7 @@ Java Introduction
 Java Fundamentals
         │
         ▼
-Basic Programs
+Basic Programming
         │
         ▼
 Data Types & Type Casting
@@ -453,7 +452,7 @@ Arrays
 Strings
         │
         ▼
-Standalone Source Code Practice
+112 Standalone Java Programs
         │
         ▼
 Interview Preparation
@@ -468,43 +467,32 @@ Spring Boot
 Java Full Stack Development
 ```
 
-Following this roadmap ensures that learners build conceptual understanding first, reinforce it through practical programming, and finally prepare themselves for real-world software development and technical interviews.
+Following this roadmap helps learners first understand theoretical concepts, reinforce them through documentation, strengthen programming skills by solving practical problems, and finally prepare for coding interviews and real-world software development.
 
 ---
 
 # 📂 Repository Modules
 
-The repository is divided into multiple learning modules. Each module focuses on a specific area of Core Java and includes theoretical explanations, practical examples, standalone Java programs, and interview-oriented content.
+The repository is divided into multiple learning modules. Each module focuses on a specific area of Core Java and combines conceptual understanding with practical implementation.
 
-The modules are arranged in the recommended learning sequence, allowing beginners to progress naturally from fundamental concepts to more advanced programming topics.
-
-Each module contains:
+Every module follows a structured educational approach that includes:
 
 - Comprehensive theory notes
 - Beginner-friendly explanations
-- Practical Java programs
-- Standalone source code
+- Standalone Java programs
+- Practical coding examples
 - Code explanations
 - Program outputs
-- Pseudocode
 - Interview questions
 - Revision material
 
-This structured organization makes the repository suitable for self-learning, classroom teaching, placement preparation, and technical interview revision.
-
----
-
-# 📂 Repository Modules
-
-The repository is divided into well-structured learning modules. Each module focuses on a specific area of Core Java and follows a consistent educational approach, combining theoretical concepts with practical implementation.
-
-Every module is designed to help learners understand the concept, practice it through standalone Java programs, and prepare for technical interviews.
+This modular organization makes the repository suitable for self-learning, academic study, placement preparation, and technical interview revision.
 
 ---
 
 # 📁 01 – Java Basics
 
-This module introduces the core foundation of Java programming. It explains how Java works internally, why it is platform-independent, and how Java programs are compiled and executed.
+This module introduces the foundation of Java programming and explains how Java applications are developed, compiled, and executed.
 
 ## Topics Covered
 
@@ -512,14 +500,12 @@ This module introduces the core foundation of Java programming. It explains how 
 - History of Java
 - Features of Java
 - Java Editions
-- Java Applications
-- JVM (Java Virtual Machine)
-- JRE (Java Runtime Environment)
-- JDK (Java Development Kit)
-- Java Program Structure
+- JVM
+- JRE
+- JDK
+- Java Architecture
 - Compilation Process
 - Execution Process
-- Java Architecture
 - Java Memory Architecture
 - Class Loader
 - Bytecode Verifier
@@ -533,36 +519,31 @@ This module introduces the core foundation of Java programming. It explains how 
 - JVM architecture
 - Java runtime environment
 - Java memory concepts
-- Internal working of Java
 
 ---
 
-# 📁 02 – Basic Programs
+# 📁 02 – Basic Programming
 
-This module helps learners write their first Java programs and understand the basic syntax and structure of Java applications.
+This module helps learners understand Java syntax and develop logical programming skills using beginner-friendly examples.
 
 ## Topics Covered
 
-- Hello World Program
+- Java Syntax
+- Variables
+- Operators
+- Scanner Class
+- Console Input and Output
 - Escape Sequences
-- Display Name and Year
-- Sum of Integers
-- Square of Integer (Hard Coding)
-- Square of Integer (Soft Coding)
-- Basic Calculator
-- Even or Odd
-- Greatest of Three Numbers
+- Basic Programming Examples
 
 ### Skills Developed
 
-- Java syntax
-- Console input and output
-- Scanner class
-- Variables
+- Writing Java programs
+- User input handling
+- Basic logic building
 - Arithmetic operations
-- Logical operators
-- Problem-solving
 - Program execution
+- Coding confidence
 
 ---
 
@@ -572,91 +553,70 @@ This module explains how Java stores, represents, and converts different types o
 
 ## Topics Covered
 
-- Variables
 - Primitive Data Types
 - Non-Primitive Data Types
+- Variable Declaration
 - Memory Representation
 - Implicit Type Casting
 - Explicit Type Casting
 
-### Primitive Data Types
-
-- byte
-- short
-- int
-- long
-- float
-- double
-- char
-- boolean
-
 ### Skills Developed
 
 - Variable declaration
-- Memory allocation
 - Data representation
+- Memory allocation
 - Type conversion
 - Data manipulation
-- Choosing appropriate data types
 
 ---
 
 # 📁 04 – Methods
 
-Methods improve code organization, reusability, and maintainability. This module explains how methods work and how they are used in Java applications.
+Methods improve program organization, code reusability, and maintainability.
 
 ## Topics Covered
 
-- Introduction to Methods
 - Method Declaration
 - Method Definition
 - Method Calling
-- Four Types of Methods
 - Parameters
-- Arguments
 - Return Types
+- Static Methods
+- Instance Methods
 - Method Overloading
 
 ### Skills Developed
 
 - Modular programming
-- Code reusability
+- Code reuse
 - Parameter passing
 - Returning values
-- Designing reusable functions
-- Program organization
+- Designing reusable methods
 
 ---
 
 # 📁 05 – Control Statements
 
-Control statements determine the execution flow of Java programs and form the basis of logical programming.
+This module explains how execution flow is controlled in Java programs.
 
-## Decision Making
+## Topics Covered
 
 - if
 - if-else
 - else-if Ladder
 - Nested if
 - switch
-
-## Looping Statements
-
 - for Loop
 - while Loop
 - do-while Loop
-
-## Jump Statements
-
 - break
 - continue
 
 ### Skills Developed
 
 - Decision making
-- Conditional execution
-- Looping techniques
 - Flow control
+- Looping techniques
 - Logic building
 - Menu-driven programming
 
@@ -664,121 +624,97 @@ Control statements determine the execution flow of Java programs and form the ba
 
 # 📁 06 – Arrays
 
-Arrays provide an efficient way to store and manipulate collections of related data. This module covers array fundamentals through practical examples.
+Arrays allow multiple values of the same type to be stored and processed efficiently.
 
 ## Topics Covered
 
-- Introduction to Arrays
 - One-Dimensional Arrays
 - Two-Dimensional Arrays
 - Three-Dimensional Arrays
 - Jagged Arrays
-- Array Traversal
-- Linear Search
-- Matrix Representation
+- Matrix Operations
+- Searching
+- Sorting
 
 ### Skills Developed
 
 - Array declaration
-- Memory allocation
 - Data storage
-- Traversing arrays
+- Array traversal
 - Matrix operations
 - Searching techniques
-- Multidimensional data handling
 
 ---
 
 # 📁 07 – Strings
 
-Strings are among the most important and frequently asked topics in Java interviews. This module covers string creation, manipulation, and memory concepts.
+Strings are among the most frequently used and interview-oriented topics in Java.
 
 ## Topics Covered
 
-- Introduction to Strings
 - String Creation
-- String Pool
-- Heap Memory
 - String Methods
-- String Comparison
-- equals() vs ==
-- split()
-- intern()
+- String Pool
 - StringBuffer
 - StringBuilder
-- Palindrome Programs
+- String Comparison
+- String Manipulation
 
 ### Skills Developed
 
 - String manipulation
 - Memory optimization
-- Immutable objects
-- Mutable strings
+- Mutable and immutable objects
 - Performance comparison
 - Interview-oriented string concepts
 
 ---
 
-# 📁 Source-Code
+# 📁 08 – Java Programs
 
-The **Source-Code** directory serves as the practical programming companion for this repository. It contains standalone Java source files corresponding to the concepts discussed throughout the documentation.
+The **08-Java-Programs** module is a comprehensive collection of **112 standalone Java programs** designed to strengthen Core Java fundamentals through practical coding.
 
-Every program is independently executable and follows professional coding standards, making it easy for learners to compile, execute, modify, and practice each concept.
+Each Java source file is professionally documented, beginner-friendly, fully commented, and independently executable. The programs follow a logical progression from basic syntax to methods, making this module an excellent companion for learning, revision, and interview preparation.
 
-## Directory Contents
+## Program Categories
 
-Currently, the directory includes standalone Java programs for:
+- Java Basics
+- Operators
+- Scanner Programs
+- Decision Making
+- Looping Programs
+- Number Programs
+- Pattern Programs
+- Arrays
+- Matrix Operations
+- Strings
+- Methods
+- Method Overloading
+- Practical Programming Examples
 
-- Hello World
-- Escape Sequences
-- Display Name and Year
-- Sum of Integers
-- Square of Integer (Hard Coding)
-- Square of Integer (Soft Coding)
-- Basic Calculator (Hard Coding)
-- Basic Calculator (Soft Coding)
-- Even or Odd
-- Greatest of Three Numbers
-- Storing Primitive Data Types
-- Implicit Type Casting
-- Explicit Type Casting
-- Four Types of Methods
-- Student Grade Calculator
-- Menu Driven Calculator
-- Multiplication Table Generator
-- Number Guess Counter
-- ATM Menu System
-- Student Marks Manager (1D Array)
-- Student Marks Matrix (2D Array)
-- Classroom Attendance Tracker (3D Array)
-- Department Employee Records (Jagged Array)
+### Module Statistics
 
-The collection will continue to grow as additional Core Java topics are added to the repository.
-
-### Coding Standards
-
-Every source file follows consistent coding standards, including:
-
-- Professional class naming conventions
-- Descriptive variable names
-- Proper indentation and formatting
-- Well-structured comments
-- Beginner-friendly implementation
-- Industry-standard coding practices
-- Readable and maintainable code
+| Category | Details |
+|----------|----------|
+| Standalone Java Programs | **112** |
+| Difficulty Level | Beginner → Intermediate |
+| Coding Style | Fully Commented |
+| Java Version | Java 8+ |
+| Learning Purpose | Practice + Revision + Interview Preparation |
 
 ### Skills Developed
 
-Working with these standalone programs helps learners:
+- Writing clean Java programs
+- Understanding Core Java syntax
+- Logical thinking
+- Problem solving
+- Debugging
+- Code readability
+- Java coding standards
+- Technical interview preparation
+- Practical programming experience
 
-- Understand Java syntax
-- Build coding confidence
-- Practice problem-solving
-- Improve debugging skills
-- Learn project organization
-- Develop coding standards
-- Prepare for coding interviews
-- Strengthen Core Java fundamentals
+This module serves as the practical programming companion for the entire repository, allowing learners to reinforce theoretical concepts through hands-on coding and systematic practice.
 
 ---
 
@@ -786,83 +722,100 @@ Working with these standalone programs helps learners:
 
 By completing every module in this repository, learners will be able to:
 
-- Understand Java architecture and execution flow.
-- Write clean, structured Java programs.
-- Work confidently with variables and data types.
+- Understand Java architecture and the Java execution process.
+- Write clean, structured, and readable Java programs.
+- Work confidently with variables, data types, and operators.
 - Apply implicit and explicit type casting correctly.
-- Design reusable methods.
-- Implement decision-making and looping constructs.
-- Solve programming problems using arrays.
-- Manipulate strings efficiently.
-- Compile and execute standalone Java applications.
-- Follow professional coding standards.
+- Design reusable methods and understand method overloading.
+- Implement decision-making and looping constructs effectively.
+- Solve programming problems using arrays and matrices.
+- Manipulate strings using built-in Java methods.
+- Develop logical thinking through **112 standalone Java programs**.
+- Compile and execute Java applications independently.
+- Follow professional coding standards and best practices.
+- Prepare confidently for coding assessments and technical interviews.
 - Build a strong foundation for Advanced Java, Spring Boot, Hibernate, JDBC, and Java Full Stack Development.
 
 ---
 
 # ⭐ Repository Features
 
-This repository has been carefully designed with a learner-first approach to provide a complete Core Java learning experience. It combines conceptual understanding, practical implementation, and interview preparation into a single structured resource.
+This repository has been carefully designed with a learner-first approach to provide a complete Core Java learning experience. It combines conceptual understanding, practical implementation, and interview preparation into a single structured educational resource.
 
 ---
 
 ## 📖 Comprehensive Theory
 
-Every topic begins with detailed theoretical explanations that establish a strong conceptual foundation before moving into practical implementation.
+Every Core Java topic begins with detailed theoretical explanations that establish a strong conceptual foundation before moving into practical implementation.
 
 ---
 
-## 💻 Standalone Source Code
+## 💻 112 Standalone Java Programs
 
-Every concept is accompanied by professionally written standalone Java source files. Each program can be compiled and executed independently, enabling learners to gain practical experience through hands-on coding.
+The repository contains **112 professionally written Java programs** covering Core Java concepts from beginner to intermediate level.
+
+Each program is:
+
+- Independently executable
+- Fully commented
+- Beginner friendly
+- Professionally documented
+- Interview oriented
+- Easy to understand
 
 ---
 
 ## 🧠 Practical Programming Examples
 
-Each topic includes carefully selected real-world programming examples that demonstrate how Java concepts are applied in practical scenarios.
+Every module includes carefully designed programming examples that demonstrate how Java concepts are applied to solve real-world problems.
 
 ---
 
 ## 📝 Pseudocode
 
-Important programs include pseudocode to simplify problem-solving and help learners understand program logic before writing actual Java code.
+Important programs include pseudocode to simplify problem-solving and help learners understand the program logic before implementation.
 
 ---
 
 ## 🔍 Detailed Code Explanation
 
-Programs are accompanied by clear explanations describing the purpose of important statements, making the learning process easier for beginners.
+Programs are accompanied by clear explanations describing important statements, logic flow, and implementation details, making learning easier for beginners.
 
 ---
 
 ## 📊 Program Outputs
 
-Expected outputs are provided to help learners verify program execution and better understand application behavior.
+Expected outputs are provided wherever applicable to help learners verify program execution and understand application behavior.
 
 ---
 
 ## 🎯 Interview Preparation
 
-Each major topic includes interview-oriented concepts and frequently asked technical questions to strengthen interview readiness.
+Every major topic includes interview-oriented concepts, practical questions, and coding examples frequently asked during Java interviews.
 
 ---
 
 ## 📚 Revision-Friendly Documentation
 
-The repository is organized for efficient revision, allowing learners to quickly revisit important concepts before examinations, certifications, coding assessments, and interviews.
+The repository is organized for quick revision before:
+
+- Technical Interviews
+- Coding Assessments
+- University Examinations
+- Placement Drives
+- Certification Preparation
 
 ---
 
 ## 🚀 Beginner-Friendly Learning Path
 
-Topics are presented in a logical progression, making the repository suitable for complete beginners while remaining useful for experienced developers revising Core Java concepts.
+Topics are presented in a logical sequence, making the repository suitable for beginners while remaining valuable for experienced developers revising Core Java concepts.
 
 ---
 
 ## 🏗 Professional Repository Structure
 
-The repository follows a clean, modular directory structure with separate sections for theory, practical examples, and standalone source code, making navigation simple and intuitive.
+The repository follows a clean, modular directory structure with separate modules for theory, interview questions, documentation, and practical Java programs.
 
 ---
 
@@ -882,13 +835,19 @@ Every Java program follows standardized coding conventions, including:
 
 ## 📈 Continuous Improvement
 
-The repository is actively maintained and continuously expanded with additional topics, practical programs, documentation improvements, and learning resources.
+The repository is actively maintained and continuously expanded with:
+
+- Additional theory
+- More interview questions
+- New Java programs
+- Better documentation
+- Enhanced learning resources
 
 ---
 
 # 🔄 Repository Workflow
 
-Every topic in this repository follows a structured development and documentation workflow to ensure consistency, quality, and educational value.
+Every topic in this repository follows a structured workflow to ensure consistency, educational quality, and practical learning.
 
 ```text
 Topic Research
@@ -903,7 +862,7 @@ Theory Documentation
 Program Planning
         │
         ▼
-Source Code Development
+Java Program Development
         │
         ▼
 Testing & Validation
@@ -939,7 +898,7 @@ This workflow ensures that every topic is thoroughly researched, professionally 
 
 # 📂 Documentation Workflow
 
-The documentation for every topic follows a standardized structure to make learning predictable, organized, and beginner-friendly.
+The documentation for every topic follows a standardized learning structure to make studying predictable, organized, and beginner friendly.
 
 ```text
 Introduction
@@ -999,7 +958,10 @@ Understand Concepts
 Study Examples
       │
       ▼
-Explore Source Code
+Explore Documentation
+      │
+      ▼
+Practice the 112 Java Programs
       │
       ▼
 Compile Programs
@@ -1020,7 +982,7 @@ Revise Notes
 Prepare for Interviews
 ```
 
-Following this methodology helps learners build strong programming fundamentals, improve logical thinking, and develop confidence in solving Java programming problems.
+Following this methodology helps learners strengthen programming fundamentals, improve logical thinking, and develop confidence in solving Java programming problems.
 
 ---
 
@@ -1030,12 +992,14 @@ The long-term objectives of this repository are to:
 
 - Build strong Core Java fundamentals.
 - Encourage practical programming through hands-on coding.
-- Improve problem-solving and analytical thinking.
+- Improve logical thinking and analytical skills.
 - Provide structured documentation for every topic.
+- Offer **112 well-organized Java programs** for practice.
 - Help learners prepare for technical interviews.
 - Support academic learning and placement preparation.
 - Serve as a reliable revision guide.
 - Create a high-quality open-source educational resource for the Java community.
+- Continuously expand with new educational content and learning resources.
 
 ---
 
@@ -1043,7 +1007,7 @@ The long-term objectives of this repository are to:
 
 This repository follows a structured learning approach that combines theoretical concepts with practical programming. Following the recommended workflow will help you gain both conceptual understanding and hands-on experience in Core Java.
 
-Whether you are a beginner, student, or interview candidate, the learning process below will maximize your understanding and retention.
+Whether you are a beginner, student, self-learner, or interview candidate, the learning process below will maximize your understanding, retention, and coding confidence.
 
 ```text
 Read Theory
@@ -1052,10 +1016,10 @@ Read Theory
 Understand the Concept
       │
       ▼
-Study the Examples
+Study the Documentation
       │
       ▼
-Explore the Source Code
+Practice the 112 Java Programs
       │
       ▼
 Compile the Program
@@ -1083,13 +1047,33 @@ Practice Interview Questions
 
 ## 📖 Step 1 – Read the Theory
 
-Begin each module by carefully reading the theoretical explanation. Focus on understanding the purpose of the concept, its syntax, working principles, advantages, and real-world applications before moving to the practical implementation.
+Begin each module by carefully reading the theoretical explanation. Focus on understanding the purpose of the concept, its syntax, internal working, advantages, and real-world applications before moving to the practical implementation.
 
 ---
 
-## 💻 Step 2 – Study the Source Code
+## 📘 Step 2 – Study the Documentation
 
-Navigate to the **Source-Code** directory and locate the Java program corresponding to the topic you are learning.
+Review the topic documentation carefully.
+
+Pay special attention to:
+
+- Definitions
+- Syntax
+- Diagrams
+- Working Principles
+- Examples
+- Important Notes
+- Interview Questions
+
+Understanding the documentation builds a strong conceptual foundation before coding.
+
+---
+
+## 💻 Step 3 – Practice the Java Programs
+
+Navigate to the **08-Java-Programs** folder and practice the corresponding Java programs.
+
+The folder contains **112 standalone Java programs**, each designed to reinforce the concepts covered throughout the repository.
 
 Observe:
 
@@ -1098,12 +1082,11 @@ Observe:
 - Comments
 - Logic implementation
 - Coding standards
-
-Understanding professionally written code is an important part of becoming a better developer.
+- Output
 
 ---
 
-## ⚙ Step 3 – Compile and Execute
+## ⚙ Step 4 – Compile and Execute
 
 Compile the Java source file using the Java compiler.
 
@@ -1114,7 +1097,7 @@ javac FileName.java
 Example:
 
 ```bash
-javac 15-StudentGradeCalculator.java
+javac 112-Menu-Driven-Calculator-Using-Methods.java
 ```
 
 Run the compiled program.
@@ -1126,68 +1109,76 @@ java ClassName
 Example:
 
 ```bash
-java StudentGradeCalculator
+java MenuDrivenCalculatorUsingMethods
 ```
 
-Executing every program helps reinforce the concepts learned in the documentation.
+Executing every program reinforces the concepts learned in the documentation.
 
 ---
 
-## 🔍 Step 4 – Analyze the Program
+## 🔍 Step 5 – Analyze the Program
 
-Instead of simply running the program, analyze:
+Instead of simply running the program, carefully analyze:
 
 - Program flow
 - Variable usage
-- Control statements
+- Conditional statements
+- Loop execution
 - Method calls
-- Array traversal
+- Array operations
+- String manipulation
 - Output generation
 
-Understanding *why* the program works is more valuable than memorizing the code.
+Understanding **why** the program works is more valuable than memorizing the code.
 
 ---
 
-## ✏ Step 5 – Modify the Program
+## ✏ Step 6 – Modify the Program
 
-Experiment with the code by making small changes.
+Experiment with the source code by making small changes.
 
 Examples include:
 
 - Changing variable values
 - Modifying conditions
-- Adding new inputs
+- Adding user inputs
 - Changing loop limits
-- Adding additional methods
-- Improving program output
+- Adding new methods
+- Improving output formatting
+- Enhancing program functionality
 
 Experimentation strengthens programming skills and encourages independent problem-solving.
 
 ---
 
-## 🧩 Step 6 – Practice Independently
+## 🧩 Step 7 – Practice Independently
 
 After understanding each topic, try writing the program yourself without referring to the source code.
 
-If you get stuck, review the documentation and compare your solution with the provided implementation.
+If you get stuck:
 
-Writing code independently is one of the most effective ways to improve programming ability.
+- Review the documentation.
+- Revisit the related Java program.
+- Compare your implementation.
+- Improve your solution.
+
+Writing programs independently is one of the most effective ways to become a confident Java developer.
 
 ---
 
-## 🎯 Step 7 – Revise Regularly
+## 🎯 Step 8 – Revise Regularly
 
 Revision is essential for long-term retention.
 
 After completing each module:
 
 - Review important concepts.
-- Revisit source code.
-- Practice key programs.
+- Revisit Java programs.
+- Practice key coding questions.
 - Solve additional exercises.
 - Review interview questions.
 
-Regular revision helps prepare for examinations, coding assessments, and technical interviews.
+Regular revision helps prepare for examinations, coding assessments, certifications, and technical interviews.
 
 ---
 
@@ -1199,7 +1190,7 @@ The following practices will help you gain the maximum benefit from this reposit
 
 ## 📖 Understand Before Memorizing
 
-Focus on understanding the concept instead of memorizing the program.
+Focus on understanding concepts instead of memorizing programs.
 
 Knowing how a program works is far more valuable than remembering its syntax.
 
@@ -1209,11 +1200,12 @@ Knowing how a program works is far more valuable than remembering its syntax.
 
 Avoid copying and pasting source code.
 
-Typing every program manually improves:
+Typing every Java program manually improves:
 
 - Syntax familiarity
 - Typing speed
 - Error detection
+- Debugging ability
 - Coding confidence
 
 ---
@@ -1242,6 +1234,7 @@ Before writing code:
 - Understand the problem.
 - Break it into smaller steps.
 - Think about the solution.
+- Write pseudocode.
 - Then implement it in Java.
 
 Strong logic leads to better programming.
@@ -1269,7 +1262,7 @@ Personal notes make future revision much easier.
 
 Programming improves through regular practice.
 
-Even 30–60 minutes of daily coding is more effective than occasional long study sessions.
+Even **30–60 minutes** of daily coding is more effective than occasional long study sessions.
 
 Consistency leads to long-term improvement.
 
@@ -1292,6 +1285,22 @@ These habits become increasingly valuable as projects grow in complexity.
 
 ---
 
+## 💡 Complete All 112 Java Programs
+
+The **08-Java-Programs** folder has been organized in a logical sequence.
+
+Instead of skipping topics, complete the programs in order.
+
+This approach helps you:
+
+- Strengthen Java fundamentals
+- Improve logical thinking
+- Build coding confidence
+- Prepare for interviews
+- Develop professional coding habits
+
+---
+
 # 💡 Practice Exercises
 
 The following exercises reinforce the concepts covered in each module and encourage independent problem-solving.
@@ -1303,12 +1312,12 @@ The following exercises reinforce the concepts covered in each module and encour
 - Explain the difference between JVM, JDK, and JRE.
 - Describe Java's platform independence.
 - Draw the Java compilation and execution process.
-- Explain the Java Memory Architecture.
+- Explain Java Memory Architecture.
 - Describe the responsibilities of the Class Loader.
 
 ---
 
-## 💻 Basic Programs
+## 💻 Basic Programming
 
 - Display personal information.
 - Calculate the area of a rectangle.
@@ -1327,7 +1336,7 @@ The following exercises reinforce the concepts covered in each module and encour
 - Demonstrate implicit type casting.
 - Demonstrate explicit type casting.
 - Compare primitive and non-primitive data types.
-- Explain memory usage of each primitive type.
+- Explain memory usage of each primitive data type.
 
 ---
 
@@ -1358,7 +1367,7 @@ The following exercises reinforce the concepts covered in each module and encour
 - Calculate the sum of array elements.
 - Find the largest and smallest values.
 - Reverse an array.
-- Search using Linear Search.
+- Search elements using Linear Search.
 - Perform matrix addition.
 - Traverse multidimensional arrays.
 - Create and manipulate jagged arrays.
@@ -1377,21 +1386,40 @@ The following exercises reinforce the concepts covered in each module and encour
 
 ---
 
-Completing these exercises will strengthen your Core Java fundamentals, improve logical thinking, and build confidence for coding assessments and technical interviews.
+## 💻 Java Programming Practice
+
+Complete all **112 Java Programs** available in the **08-Java-Programs** folder.
+
+While practicing:
+
+- Predict the output before execution.
+- Trace the program manually.
+- Modify the logic.
+- Add additional features.
+- Optimize the implementation.
+- Explain the code without referring to comments.
+
+Completing all programs will significantly improve logical thinking, coding confidence, debugging skills, and interview readiness.
+
+---
+
+Completing these exercises will strengthen your Core Java fundamentals, improve problem-solving abilities, and prepare you for coding assessments, technical interviews, and real-world Java application development.
 
 ---
 
 # 🎯 Interview Preparation
 
-This repository has been developed with technical interviews, placement preparation, and coding assessments in mind. Along with conceptual explanations and practical programs, it provides a structured learning path to help learners confidently answer interview questions and solve programming problems.
+This repository has been developed with technical interviews, placement preparation, coding assessments, and academic learning in mind. Along with comprehensive theory and structured documentation, it provides **112 standalone Java programs** that help learners strengthen both conceptual understanding and practical programming skills.
 
-Each module focuses on strengthening both theoretical understanding and practical implementation, enabling learners to explain concepts clearly while writing clean and efficient Java code.
+Each module is designed to improve your ability to explain Java concepts clearly, write clean code, solve programming problems efficiently, and perform confidently during technical interviews.
 
 ---
 
 ## 📌 Interview Areas Covered
 
-The repository includes interview-oriented content for the following Core Java topics:
+The repository includes interview-oriented content covering all major Core Java topics.
+
+---
 
 ### ☕ Java Fundamentals
 
@@ -1400,10 +1428,12 @@ The repository includes interview-oriented content for the following Core Java t
 - Features of Java
 - Java Editions
 - Platform Independence
-- JVM, JRE, and JDK
+- JVM
+- JRE
+- JDK
 - Java Architecture
-- Compilation Process
-- Execution Process
+- Java Compilation Process
+- Java Execution Process
 - Java Memory Architecture
 - Class Loader
 - Bytecode Verifier
@@ -1441,7 +1471,8 @@ The repository includes interview-oriented content for the following Core Java t
 - Method Calling
 - Method Parameters
 - Return Types
-- Four Types of Methods
+- Static Methods
+- Instance Methods
 - Method Overloading
 
 ---
@@ -1468,7 +1499,8 @@ The repository includes interview-oriented content for the following Core Java t
 - Three-Dimensional Arrays
 - Jagged Arrays
 - Array Traversal
-- Linear Search
+- Matrix Operations
+- Searching Techniques
 
 ---
 
@@ -1480,13 +1512,34 @@ The repository includes interview-oriented content for the following Core Java t
 - StringBuffer
 - StringBuilder
 - String Comparison
-- String Interview Programs
+- String Manipulation
+
+---
+
+### 💻 Practical Java Programming
+
+The repository also contains **112 standalone Java programs** covering:
+
+- Java Basics
+- Operators
+- Scanner Programs
+- Number Programs
+- Decision Making
+- Looping Statements
+- Pattern Programs
+- Arrays
+- Matrix Programs
+- String Programs
+- Methods
+- Practical Applications
+
+These programs strengthen programming logic and improve coding confidence for technical interviews.
 
 ---
 
 ## 🧩 Interview Preparation Strategy
 
-The following roadmap is recommended for effective interview preparation.
+Follow the roadmap below for effective interview preparation.
 
 ```text
 Read Theory
@@ -1495,16 +1548,19 @@ Read Theory
 Understand Concepts
       │
       ▼
-Study Examples
+Study Documentation
       │
       ▼
-Explore Source Code
+Practice Java Programs
       │
       ▼
-Compile & Execute Programs
+Compile & Execute
       │
       ▼
-Modify the Logic
+Analyze the Logic
+      │
+      ▼
+Modify the Code
       │
       ▼
 Practice Similar Problems
@@ -1530,10 +1586,11 @@ Following this structured approach strengthens both conceptual knowledge and cod
 
 By working through this repository, learners will improve their ability to:
 
-- Explain Java concepts clearly.
+- Explain Java concepts confidently.
 - Write clean and efficient Java programs.
 - Solve logical programming problems.
 - Debug Java applications.
+- Analyze program execution.
 - Optimize simple Java solutions.
 - Understand Java's internal working.
 - Answer frequently asked interview questions.
@@ -1544,19 +1601,20 @@ By working through this repository, learners will improve their ability to:
 
 # 📈 Repository Progress
 
-The repository is continuously expanded with new documentation, practical programs, interview content, and learning resources.
+The repository is continuously expanded with new documentation, practical programs, interview content, and educational resources.
 
 | Module | Status |
 |---------|--------|
-| ☕ Java Basics | ✅ Completed |
-| 💻 Basic Programs | ✅ Completed |
-| 📊 Data Types & Type Casting | ✅ Completed |
-| ⚙ Methods | ✅ Completed |
-| 🔀 Control Statements | ✅ Completed |
-| 📦 Arrays | ✅ Completed |
-| 🔤 Strings | 🚧 In Progress |
-| 💻 Source-Code Directory | 🚧 Continuously Expanding |
-| 🎯 Interview Preparation | 🚧 Continuously Updated |
+| ☕ 01 – Java Basics | ✅ Completed |
+| 💻 02 – Basic Programming | ✅ Completed |
+| 📊 03 – Data Types & Type Casting | ✅ Completed |
+| ⚙ 04 – Methods | ✅ Completed |
+| 🔀 05 – Control Statements | ✅ Completed |
+| 📦 06 – Arrays | ✅ Completed |
+| 🔤 07 – Strings | ✅ Completed |
+| 💻 08 – Java Programs (112 Programs) | ✅ Completed |
+| 🎯 Interview Preparation | 🚀 Continuously Updated |
+| 📚 Documentation | 🚀 Continuously Improved |
 
 ---
 
@@ -1564,12 +1622,15 @@ The repository is continuously expanded with new documentation, practical progra
 
 | Item | Status |
 |------|--------|
-| Version | **1.1** |
+| Version | **2.0** |
 | Repository Status | 🚀 Active Development |
 | Documentation | ✅ Available |
-| Standalone Source Code | ✅ Available |
-| Learning Modules | 🚧 Expanding |
-| Interview Resources | 🚧 Growing |
+| Learning Modules | **8** |
+| Java Programs | **112** |
+| Theory Notes | ✅ Available |
+| Interview Questions | ✅ Available |
+| Practical Programs | ✅ Available |
+| Visual Resources | ✅ Available |
 
 ---
 
@@ -1577,9 +1638,11 @@ The repository is continuously expanded with new documentation, practical progra
 
 The long-term objective is to evolve this repository into a complete Core Java reference covering beginner to advanced concepts.
 
+---
+
 ## 🚀 Upcoming Topics
 
-### Object-Oriented Programming
+### 📦 Object-Oriented Programming
 
 - Classes
 - Objects
@@ -1592,7 +1655,7 @@ The long-term objective is to evolve this repository into a complete Core Java r
 
 ---
 
-### Exception Handling
+### ⚠️ Exception Handling
 
 - Exception Hierarchy
 - try-catch
@@ -1603,7 +1666,7 @@ The long-term objective is to evolve this repository into a complete Core Java r
 
 ---
 
-### Collections Framework
+### 📚 Collections Framework
 
 - List
 - Set
@@ -1615,7 +1678,7 @@ The long-term objective is to evolve this repository into a complete Core Java r
 
 ---
 
-### File Handling
+### 📁 File Handling
 
 - File Class
 - FileReader
@@ -1625,7 +1688,7 @@ The long-term objective is to evolve this repository into a complete Core Java r
 
 ---
 
-### Multithreading
+### 🧵 Multithreading
 
 - Thread Class
 - Runnable Interface
@@ -1635,7 +1698,7 @@ The long-term objective is to evolve this repository into a complete Core Java r
 
 ---
 
-### Java 8 Features
+### 🚀 Java 8 Features
 
 - Lambda Expressions
 - Functional Interfaces
@@ -1646,7 +1709,7 @@ The long-term objective is to evolve this repository into a complete Core Java r
 
 ---
 
-### Advanced Topics
+### ⚙️ Advanced Java Concepts
 
 - Generics
 - Reflection API
@@ -1656,7 +1719,7 @@ The long-term objective is to evolve this repository into a complete Core Java r
 
 ---
 
-### Practical Learning
+### 💡 Practical Learning
 
 - Coding Challenges
 - Practice Problems
@@ -1673,43 +1736,45 @@ The long-term objective is to evolve this repository into a complete Core Java r
 
 Completed modules:
 
-- Java Fundamentals
-- Basic Programs
-- Data Types
+- Java Basics
+- Basic Programming
+- Data Types & Type Casting
 - Methods
 - Control Statements
 - Arrays
 
 ---
 
-## 🚀 Version 1.1 (Current)
+## 🚀 Version 2.0 (Current)
 
-Enhancements include:
+Major enhancements include:
 
 - Professional repository documentation
-- Dedicated **Source-Code** directory
-- Standalone Java programs
+- Complete modular repository structure
+- **112 Standalone Java Programs**
+- Dedicated Java Programs module
 - Improved learning workflow
 - Better repository organization
-- Expanded educational content
 - Enhanced interview preparation
+- Visual repository overview
+- Comprehensive README documentation
 
 ---
 
-## 🔜 Version 2.0
+## 🔜 Version 3.0
 
 Planned additions:
 
 - Complete Object-Oriented Programming
 - Exception Handling
-- File Handling
 - Collections Framework
-- Practice Exercises
-- More Interview Questions
+- File Handling
+- More Practice Exercises
+- Additional Interview Questions
 
 ---
 
-## 🔜 Version 3.0
+## 🔜 Version 4.0
 
 Future enhancements:
 
@@ -1719,6 +1784,7 @@ Future enhancements:
 - Lambda Expressions
 - Mini Projects
 - Coding Challenges
+- Advanced Practice Programs
 
 ---
 
@@ -1728,7 +1794,7 @@ The ultimate goal is to transform this repository into a comprehensive Core Java
 
 - Complete theory
 - Professional documentation
-- Standalone source code
+- 112+ standalone Java programs
 - Practical examples
 - Coding exercises
 - Interview preparation
@@ -1742,16 +1808,14 @@ This repository will continue evolving to provide learners with a structured, pr
 
 # 📊 Visual Learning Resources
 
-Learning becomes more effective when theoretical concepts are supported by visual representations. This repository is designed to be complemented with high-quality visual learning materials that simplify complex topics and make revision faster.
-
-The visual resources are intended to provide learners with an intuitive understanding of Java concepts while serving as quick-reference materials during revision and interview preparation.
+Learning becomes more effective when theoretical concepts are supported by visual representations. This repository includes and will continue to expand high-quality visual learning materials that simplify complex topics and make revision faster.
 
 ---
 
-## 🖼 Planned Visual Resources
+## 🖼 Available Visual Resources
 
-The following visual materials are planned for this repository:
-
+- Core Java Repository Overview
+- Repository Structure Diagram
 - Topic-wise Infographics
 - Java Architecture Diagrams
 - JVM, JRE & JDK Diagrams
@@ -1778,66 +1842,141 @@ These visual resources help learners:
 - Prepare for technical interviews.
 - Strengthen conceptual understanding.
 
-As the repository grows, more visual learning resources will be added to support every major Core Java topic.
+As the repository continues to grow, additional visual learning resources will be added to support every major Core Java topic.
 
 ---
 
 # 📚 References
 
-The educational content provided in this repository has been prepared by combining official Java documentation, practical programming experience, industry best practices, and continuous learning.
+The content included in this repository has been compiled from official documentation, language specifications, educational resources, practical programming experience, and standard Java learning materials.
 
-The objective is to provide accurate, beginner-friendly, and interview-oriented educational material.
+These references are recommended for learners who wish to deepen their understanding of Core Java concepts.
 
 ---
 
-## Official References
-
-The following official resources have been used as primary references:
+## ☕ Official Java Documentation
 
 - Oracle Java Documentation
-- Java Language Specification (JLS)
 - Oracle Java Tutorials
 - OpenJDK Documentation
-- Java SE API Documentation
+- Java Language Specification (JLS)
+- Java Virtual Machine Specification (JVMS)
 
 ---
 
-## Additional Learning Resources
+## 📖 Recommended Books
 
-The repository has also been inspired by widely accepted educational resources, including:
+### Effective Java
 
-- Technical Books
-- Programming Practice Platforms
-- Official Documentation
-- Technical Articles
-- Coding Communities
-- Interview Preparation Resources
+**Author:** Joshua Bloch
+
+One of the most respected books for writing clean, maintainable, and efficient Java code.
+
+---
+
+### Head First Java
+
+**Authors:** Kathy Sierra & Bert Bates
+
+An excellent beginner-friendly book for understanding Java concepts through illustrations and practical examples.
+
+---
+
+### Core Java Volume I – Fundamentals
+
+**Authors:** Cay S. Horstmann & Gary Cornell
+
+A comprehensive guide covering the fundamentals of Java programming in detail.
+
+---
+
+### Java: The Complete Reference
+
+**Author:** Herbert Schildt
+
+A widely used reference book covering beginner to advanced Java concepts.
+
+---
+
+### Thinking in Java
+
+**Author:** Bruce Eckel
+
+A classic resource focusing on object-oriented programming concepts and Java best practices.
+
+---
+
+## 🌐 Online Learning Resources
+
+- Oracle Learning Resources
+- OpenJDK Documentation
+- Java API Documentation
+- GeeksforGeeks Java Tutorials
+- Baeldung Java Tutorials
+- W3Schools Java Tutorials
+- TutorialsPoint Java
+- Programiz Java
+- HackerRank Java Practice
+- LeetCode Java Problems
+
+---
+
+## 🎥 Video Learning Platforms
+
+- YouTube Java Tutorials
+- Oracle Learning Videos
+- Infosys Springboard
+- Coursera
+- Udemy
+- edX
+
+---
+
+## 💻 Coding Practice Platforms
+
+Regular coding practice is essential for improving logical thinking and programming skills.
+
+Recommended platforms include:
+
+- HackerRank
+- LeetCode
+- CodeChef
+- Codeforces
+- Coding Ninjas
+- GeeksforGeeks Practice
+- InterviewBit
+
+---
+
+## 📚 Java Documentation Used Throughout This Repository
+
+The repository documentation is prepared using:
+
+- Official Java Language Specifications
+- Standard Java Programming Concepts
+- Practical Programming Experience
 - Industry Best Practices
-
-These references help ensure that the repository follows standard Java programming principles and professional coding conventions.
+- Coding Standards
+- Technical Interview Patterns
+- Educational Resources
 
 ---
 
 # 🤝 Contribution
 
-Contributions that improve the quality of this repository are always welcome.
+Contributions are always welcome and greatly appreciated.
 
-Whether it is correcting documentation, improving Java programs, fixing issues, or suggesting better explanations, every contribution helps make this repository more useful for the developer community.
+If you would like to improve this repository, you can contribute by:
 
----
-
-## You Can Contribute By
-
-- Improving documentation
-- Correcting mistakes
-- Optimizing Java programs
-- Adding better explanations
-- Improving code readability
-- Reporting issues
-- Suggesting new topics
-- Adding interview questions
-- Enhancing learning resources
-- Improving repository structure
+- Fixing documentation issues
+- Improving explanations
+- Correcting grammatical errors
+- Enhancing Java programs
+- Optimizing existing code
+- Adding additional examples
+- Improving interview questions
+- Reporting bugs
+- Suggesting new learning resources
 
 ---
 
@@ -1845,140 +1984,88 @@ Whether it is correcting documentation, improving Java programs, fixing issues, 
 
 ```text
 Fork Repository
-      │
-      ▼
-Clone Repository
-      │
-      ▼
+        │
+        ▼
 Create New Branch
-      │
-      ▼
+        │
+        ▼
 Make Changes
-      │
-      ▼
-Test Changes
-      │
-      ▼
+        │
+        ▼
+Test Your Changes
+        │
+        ▼
 Commit Changes
-      │
-      ▼
-Push Branch
-      │
-      ▼
+        │
+        ▼
+Push to GitHub
+        │
+        ▼
 Create Pull Request
-      │
-      ▼
-Code Review
-      │
-      ▼
-Merge Changes
 ```
 
 ---
 
 ## Contribution Guidelines
 
-Before submitting a contribution, please ensure that:
+Before submitting a contribution:
 
-- Java programs compile successfully.
-- Documentation is accurate and well-formatted.
-- Existing coding standards are followed.
-- Meaningful commit messages are used.
-- New content aligns with the repository's educational goals.
+- Follow Java coding standards.
+- Maintain proper code formatting.
+- Write meaningful commit messages.
+- Keep documentation professional.
+- Test Java programs before submission.
+- Ensure readability and consistency.
 
-Every contribution that improves the learning experience is sincerely appreciated.
+Every contribution helps improve the learning experience for the entire Java community.
 
 ---
 
 # 📢 Repository Navigation
 
-This repository is part of a structured Java learning roadmap. Learners are encouraged to progress through the repositories in the recommended sequence.
+The following repositories are part of the complete Java learning roadmap.
 
-| Repository | Purpose | Status |
-|------------|---------|--------|
-| ☕ **01 – Core Java** | Java Fundamentals | ✅ Current Repository |
-| 📦 **02 – Java OOP Concepts** | Object-Oriented Programming | 🔜 Planned |
-| ⚠️ **03 – Java Exception Handling** | Exception Handling | 🔜 Planned |
-| 🧵 **04 – Java Multithreading** | Multithreading | 🔜 Planned |
-| 🗄️ **09 – JDBC with MySQL** | Database Connectivity | 🔜 Planned |
-| 📚 **12 – Java Collections Framework** | Collections | 🔜 Planned |
+| Repository | Description |
+|------------|-------------|
+| ☕ **01-Core-Java** | Java fundamentals, theory, documentation, and **112 standalone Java programs** |
+| 🏛 **02-Java-OOP-Concepts** | Classes, Objects, Constructors, Inheritance, Polymorphism, Abstraction, Interfaces |
+| ⚠ **03-Java-Exception-Handling** | Exception hierarchy, exception handling, custom exceptions, best practices |
+| 🧵 **04-Java-Multithreading** | Thread lifecycle, synchronization, multithreading concepts |
+| 📦 **05-Java-Collections-Framework** | List, Set, Queue, Map, Comparable, Comparator, Collections Utility |
+| 🗄 **06-JDBC-with-MySQL** | JDBC architecture, CRUD operations, database connectivity |
+| 🌐 **07-HTML5** | HTML fundamentals and modern web page development |
+| 🎨 **08-CSS3** | Styling, layouts, responsive web design |
+| ⚡ **09-JavaScript** | JavaScript fundamentals, DOM, ES6 concepts |
+| 🛢 **10-Oracle-SQL** | SQL queries, joins, functions, database concepts |
+| 🧪 **11-Manual-Testing** | SDLC, STLC, testing methodologies, interview preparation |
 
-Following this sequence ensures a structured progression from Core Java fundamentals to enterprise-level Java development.
-
----
-
-## 📌 Recommended Learning Sequence
-
-```text
-Core Java
-      │
-      ▼
-Object-Oriented Programming
-      │
-      ▼
-Exception Handling
-      │
-      ▼
-Multithreading
-      │
-      ▼
-Collections Framework
-      │
-      ▼
-JDBC
-      │
-      ▼
-Advanced Java
-      │
-      ▼
-Spring Boot
-      │
-      ▼
-Hibernate
-      │
-      ▼
-Java Full Stack Development
-```
-
-This roadmap reflects the recommended order for building a strong and progressive Java skill set.
+Together, these repositories provide a structured roadmap from Core Java fundamentals to Java Full Stack Development.
 
 ---
 
 # ⭐ Support
 
-If this repository helps you in your learning journey, interview preparation, or future reference, please consider supporting the project. Your encouragement motivates continuous improvement and the creation of more high-quality educational resources for the developer community.
+If this repository helps you in your learning journey, interview preparation, or future reference, please consider giving it a **Star ⭐**.
 
-There are several ways you can support this repository:
-
-- ⭐ Star the repository
-- 🍴 Fork the repository
-- 📢 Share it with fellow learners and developers
-- 💬 Provide constructive feedback
-- 🐞 Report bugs or issues
-- 💡 Suggest new topics and improvements
-- 🤝 Contribute through Pull Requests
-
-Every form of support, whether big or small, is sincerely appreciated.
-
-> **If this repository helps you in your learning journey, interview preparation, or future reference, please consider giving it a ⭐ Star. Your support is greatly appreciated and motivates the continued creation of high-quality educational repositories.**
+Your support is greatly appreciated and motivates me to continue creating high-quality educational repositories.
 
 ---
 
-# 📄 License
+# 📜 License
 
-This repository is distributed under the **MIT License**.
+This project is licensed under the **MIT License**.
 
-The MIT License allows anyone to:
+You are free to:
 
-- Use the code for personal or commercial purposes
-- Modify and improve the source code
-- Distribute copies of the repository
-- Include the code in larger projects
-- Learn from and adapt the educational material
+- Use
+- Study
+- Modify
+- Share
+- Contribute
 
-Please retain the original license and copyright notice when redistributing significant portions of this repository.
+Please retain the original license and provide appropriate attribution whenever applicable.
 
-For complete licensing information, refer to the **LICENSE** file included in this repository.
+For complete details, refer to the **LICENSE** file included in this repository.
 
 ---
 
@@ -1988,168 +2075,74 @@ For complete licensing information, refer to the **LICENSE** file included in th
 
 **Java Full Stack Developer**
 
-A passionate software developer dedicated to building high-quality educational resources that simplify programming concepts through structured documentation, practical examples, and professional source code.
+Passionate about building high-quality educational resources that help learners strengthen programming fundamentals, improve coding skills, and prepare confidently for technical interviews.
 
-### Areas of Interest
-
-- Core Java
-- Advanced Java
-- Spring Boot
-- Hibernate
-- JDBC
-- Oracle SQL
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Angular
-- Manual Testing
-- Cloud Fundamentals
-- DevOps Fundamentals
-- Software Development
-- Technical Documentation
-- Open Source Learning
-
-The goal of these repositories is to make Java learning more accessible, practical, and interview-oriented for students, fresh graduates, and software professionals.
+This repository reflects a commitment to creating structured, beginner-friendly, and professional learning materials for the developer community.
 
 ---
 
 # 🌐 Connect With Me
 
-Stay connected for more educational repositories, technical content, and learning resources.
+- 💼 LinkedIn
+- 💻 GitHub
+- 🌐 Portfolio Website
+- 📧 Email
 
-- GitHub: https://github.com/shaikbasha-dev
-- LinkedIn: https://www.linkedin.com/in/shaikbasha-dev/
-- Email: smbashadev@gmail.com
-
-Feel free to connect, follow the repositories, and share valuable feedback to help improve future educational content.
+Feel free to connect for professional networking, knowledge sharing, collaboration, or discussions related to Java, Full Stack Development, software engineering, and technical learning.
 
 ---
 
 # 🙏 Acknowledgements
 
-Special thanks to everyone who has contributed directly or indirectly to the learning journey behind this repository.
+Special thanks to:
 
-Gratitude is extended to:
-
-- Oracle Java Documentation Team
+- Oracle Java Team
 - OpenJDK Community
 - Java Developer Community
 - Open Source Contributors
-- Programming Educators
 - Technical Authors
-- Software Engineering Community
-- Learners and Repository Visitors
+- Software Trainers
+- Educators
+- Programming Communities
+- Interview Preparation Platforms
+- Every learner who uses and supports this repository
 
-The collective knowledge shared by the global developer community continues to inspire better educational resources for everyone.
+Continuous learning and knowledge sharing make the software development community stronger.
 
 ---
 
 # 🚀 Future Vision
 
-This repository is part of a broader vision to create a comprehensive and structured learning ecosystem covering the complete Java Full Stack Development roadmap.
+This repository is part of a larger mission to build a comprehensive, high-quality educational ecosystem for Java and Full Stack Development.
 
-The long-term objective is to build a collection of professional repositories that guide learners from beginner concepts to enterprise-level application development.
+Future improvements include:
 
-## Planned Repository Expansion
-
-### ☕ Java
-
-- Core Java
-- Advanced Java
-- Object-Oriented Programming
+- More Core Java topics
+- Additional practical Java programs
+- Advanced coding exercises
+- Object-Oriented Programming modules
 - Exception Handling
-- Multithreading
 - Collections Framework
-- JDBC
-
----
-
-### 🌐 Frontend Development
-
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- Angular
-
----
-
-### 🗄 Database
-
-- Oracle SQL
-- MySQL
-
----
-
-### ⚙ Backend Development
-
-- Spring Framework
-- Spring Boot
-- Hibernate
-- REST APIs
-- Microservices
-
----
-
-### ☁ Cloud & DevOps
-
-- Git
-- GitHub
-- Docker
-- Kubernetes
-- Jenkins
-- AWS Fundamentals
-- CI/CD
-
----
-
-### 🧪 Testing
-
-- Manual Testing
-- SDLC
-- STLC
-- Test Case Design
-- Defect Management
-
----
-
-### 📈 Professional Development
-
-- Coding Challenges
+- File Handling
+- Multithreading
+- Java 8 Features
+- Advanced interview preparation
+- Visual revision handbooks
+- Infographics
 - Mini Projects
-- Major Projects
-- System Design
-- Interview Preparation
-- Resume Guidance
-- GitHub Portfolio
-- Placement Preparation
+- Real-world examples
+- Coding challenges
+- Cheat sheets
+- Interactive learning resources
+
+The goal is to provide learners with a complete, structured, practical, and interview-oriented Java learning experience—from beginner fundamentals to professional software development.
 
 ---
 
-## 🎯 Mission
+<div align="center">
 
-The mission is to create a collection of repositories that enable learners to:
+## ⭐ Happy Learning and Keep Coding! ☕
 
-- Build strong programming fundamentals.
-- Develop practical software development skills.
-- Learn through structured documentation.
-- Practice with real-world Java programs.
-- Prepare effectively for technical interviews.
-- Build professional GitHub portfolios.
-- Advance confidently toward Java Full Stack Development careers.
+**If you found this repository useful, don't forget to Star ⭐ the repository and share it with others.**
 
-Continuous updates, improvements, and new learning resources will be added over time to keep the repositories relevant, practical, and valuable for the developer community.
-
----
-
-## 💙 Thank You
-
-Thank you for visiting this repository and taking the time to explore its contents.
-
-It is hoped that the explanations, documentation, and practical source code provided here contribute positively to your learning journey and professional growth.
-
-**Happy Learning and Keep Coding!**
-
----
-
+</div>
