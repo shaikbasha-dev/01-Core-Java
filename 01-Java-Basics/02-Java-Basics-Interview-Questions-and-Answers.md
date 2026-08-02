@@ -8,7 +8,7 @@ This document contains frequently asked Java Basics interview questions with con
 
 **Answer:**
 
-Java is a high-level, object-oriented, platform-independent programming language developed by Sun Microsystems in 1995. It follows the principle **"Write Once, Run Anywhere (WORA)"**.
+Java is a high-level, class based, object-oriented, platform-independent programming language developed by Sun Microsystems in 1995. It follows the principle **"Write Once, Run Anywhere (WORA)"**.
 
 ---
 
