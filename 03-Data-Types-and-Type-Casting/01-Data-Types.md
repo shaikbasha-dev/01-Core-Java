@@ -19,7 +19,7 @@ Understanding data types is essential because every variable in Java must have a
 
 **Definition:**
 
-A Data Type specifies the type of data that a variable can store.
+A Data Type can be defined as classification that signifies the type of value a variable can hold.
 
 In simple words:
 
